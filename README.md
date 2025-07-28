@@ -8,7 +8,7 @@ Extract a **structured outline** from any PDF document. This includes:
 - Page numbers
 
 Output format:
-```json
+json
 {
   "title": "Understanding AI",
   "outline": [
